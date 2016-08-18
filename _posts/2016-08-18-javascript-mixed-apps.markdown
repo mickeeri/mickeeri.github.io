@@ -5,7 +5,7 @@ date:   2016-08-18T12:10:20+02:00
 categories: project javascript
 ---
 
-A collection of small applications from the course "Webbteknik I", client side development with JavaScript.
+A collection of small applications from the course "Webbteknik I", client side development with JavaScript - a first year course at the Web devloper program at Linnaeus University.
 
 Visit the project on Github
 {% include icon-github.html username="me222wm" %} /

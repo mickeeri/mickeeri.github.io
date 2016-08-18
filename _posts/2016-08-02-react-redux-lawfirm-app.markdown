@@ -11,4 +11,6 @@ Visit the project on Github
 {% include icon-github.html username="mickeeri" %} /
 [lawfirm-client](https://github.com/mickeeri/lawfirm-client)
 
-Published at [me222wm.github.io/trafikinfo/](http://me222wm.github.io/trafikinfo/)
+Published at [ordocliens.herokuapp.com](https://ordocliens.herokuapp.com)
+
+See screenshots [here](https://github.com/mickeeri/lawfirm-client/blob/master/screenshots/screenshots.md).
