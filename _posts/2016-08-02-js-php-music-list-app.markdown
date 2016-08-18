@@ -10,3 +10,5 @@ Mashup application developed with vanilla JavaScript front-end and PHP back-end 
 Visit the project on Github
 {% include icon-github.html username="me222wm" %} /
 [1dv449_projekt](https://github.com/me222wm/1dv449_projekt)
+
+Published at(me222wm.se/musicmashup)[http://me222wm.se/musicmashup/index.php]
