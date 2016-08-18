@@ -10,3 +10,5 @@ Client side for [Ruby on Rails backend](https://github.com/mickeeri/lawfirm-api)
 Visit the project on Github
 {% include icon-github.html username="mickeeri" %} /
 [lawfirm-client](https://github.com/mickeeri/lawfirm-client)
+
+Published at [me222wm.github.io/trafikinfo/](http://me222wm.github.io/trafikinfo/)
