@@ -14,10 +14,6 @@
     }
 }
 
-.site-brand {
-  display: inline-block;
-}
-
 .site-title {
     font-size: 20px;
     font-weight: 300;
@@ -42,7 +38,7 @@
 
 .site-nav {
     float: right;
-    line-height: 60px;
+    margin-top: 18px;
 
     .menu-icon {
         display: none;
