@@ -1,0 +1,42 @@
+.site-title {
+  font-weight: bold;
+  font-size: 30px;
+  text-decoration: none;
+}
+
+.page-link {
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.page-heading {
+  display: none;
+}
+
+.post-meta {
+  color: #999;
+  font-weight: bold;
+}
+
+.post-description {
+  color: #3A4145;
+}
+
+h2.post-list-header {
+  margin-bottom: 2px;
+}
+
+.sub-title {
+  color: #999;
+  margin-left: 2px;
+}
+
+
+a.post-link {
+  color: #07b57a;
+  font-size: 22px;
+  text-decoration: none;
+  &:hover {
+    color: #0b714e;
+  }
+}

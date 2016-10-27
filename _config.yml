@@ -6,14 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Projects by Mikael Eriksson
+title: Mikael Eriksson
 email: mikaeleriksson00@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This site is developed using the static site generator Jekyll.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://mickeeri.github.io" # the base hostname & protocol for your site
 twitter_username:
-github_username:  me222wm
+github_username:  mickeeri
 linkedin_username: mikael-eriksson
 linkedin_path: https://se.linkedin.com/in/mikael-eriksson-697426125
 # Build settings

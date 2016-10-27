@@ -3,6 +3,7 @@ layout: post
 title:  "Ruby on Rails book application"
 date:   2016-08-02T18:40:09+02:00
 categories: redux react
+description: My first Ruby on Rails project. Used for organizing authors and books.
 ---
 Ruby on Rails application to manage authors and books. Created as a first year project at Linnaeus University.
 

@@ -3,6 +3,7 @@ layout: post
 title:  "Sales Scenario Blog Radio"
 date: 2016-08-18T15:32:20+02:00
 categories: php
+description: Laravel blog Radio Application
 ---
 
 Project for the course [Web project I](https://coursepress.lnu.se/kurs/webbprojekt-i/) at the Linnaeus University, where we worked as a team with a real client. We developed a blog radio player for a company called Sales Scenario.

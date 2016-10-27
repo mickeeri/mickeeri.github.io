@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  "My record collection PHP project"
+title:  "My record collection"
 date:   2016-08-02T18:26:21+02:00
 categories: redux react
+description: PHP MVC application for organizing and rating music albums.
 ---
 Simple MVC PHP project for managing and rating music records. Users can add, edit and delete records, as well as upload album cover.
 
 Visit the project on Github
 {% include icon-github.html username="me222wm" %} /
 [PHPProject](https://github.com/me222wm/PHPProject)
-
-Visit [published version](http://me222wm.se/myrecordcollection/).

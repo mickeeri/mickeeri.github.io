@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "JavaScript and PHP Mashup app for creating music lists"
+title:  "Album of the year creator"
 date:   2016-08-02T19:06:08+02:00
 categories: redux react
+description: Mashup application developed with PHP and JavaScript.
 ---
 Mashup application developed with vanilla JavaScript front-end and PHP back-end that uses Last.fm and Spotify API:s. Let's users create Album-of-the-year-lists.
 
