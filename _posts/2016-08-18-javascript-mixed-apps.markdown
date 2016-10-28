@@ -3,7 +3,7 @@ layout: post
 title:  "JavaScript applications"
 date:   2016-08-18T12:10:20+02:00
 categories: project javascript
-description: Collection of small JavaScript apps and games.
+description: Collection of small JavaScript apps and games that I did during my first year at university.
 ---
 
 A collection of small applications from the course "Webbteknik I", client side development with JavaScript - a first year course at the Web devloper program at Linnaeus University.
