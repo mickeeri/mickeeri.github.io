@@ -1,16 +1,25 @@
 ---
 layout: post
-title: React and Redux lawfirm application (New Version)
+title: React and Redux application for lawfirms
 date: 2016-10-27 21:53:00 +02:00
 categories: react redux
-description: New version of React and Redux front-end for lawfirms. Still under development.
+description: Single Page Application for organizing clients and lawsuits. Still under development.
 ---
-I have been working with remaking a school project Ruby on Rails application. It
-has now been broken up into an [API](https://github.com/mickeeri/lawfirm-api) developed with Ruby on Rails 5 and a SPA developed
-with React and Redux. I'm also using things like react-router, normalizr and react-bootstrap.
+This is a remake of my final school project. It consists of a Ruby on Rails API and a client side
+application developed with React, Redux, React Router, normalizr, and React Bootstrap.
 
-Is aimed at small lawfirms that want's an easy way to handle clients, legal cases and counterparts.
+The application is aimed at small lawfirms that needs an easy way to handle clients and cases.
+They will also be able to log work and generate reports.
 
-The project is under development. Read more and look at the code on Github
-{% include icon-github.html username="mickeeri" %} /
-[new-lawfirm-client](https://github.com/mickeeri/new-lawfirm-client)
+The application is published [here](https://mickeeri.github.io/new-lawfirm-client). Under development!
+
+Sign in with:
+
+<pre>
+test@mail.com
+password
+</pre>
+
+Visit the API Github repo [here](https://github.com/mickeeri/lawfirm-api).
+
+Visit the React SPA Github repo [here](https://github.com/mickeeri/new-lawfirm-client).
